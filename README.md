@@ -21,3 +21,4 @@ Follow these steps to get the project up and running on your local machine:
 cd PlanWithHeer
 
 ## Install dependencies:
+npm install
