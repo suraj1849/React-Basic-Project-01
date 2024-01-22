@@ -22,3 +22,5 @@ cd PlanWithHeer
 
 ## Install dependencies:
 npm install
+
+## Start the development server:
