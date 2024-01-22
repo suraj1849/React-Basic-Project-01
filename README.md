@@ -18,3 +18,4 @@ Follow these steps to get the project up and running on your local machine:
    git clone https://github.com/suraj1849/PlanWithHeer.git
 
  ## Navigate to the project directory:
+cd PlanWithHeer
