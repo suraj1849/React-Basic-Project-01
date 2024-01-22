@@ -19,3 +19,5 @@ Follow these steps to get the project up and running on your local machine:
 
  ## Navigate to the project directory:
 cd PlanWithHeer
+
+## Install dependencies:
