@@ -15,4 +15,4 @@ Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/PlanWithHeer.git
+   git clone https://github.com/suraj1849/PlanWithHeer.git
