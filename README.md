@@ -29,3 +29,11 @@ npm start
 
  ## Contributing
 Contributions are welcome! If you have ideas for new UI designs, improvements, or bug fixes, feel free to submit a pull request.
+
+
+## Acknowledgments
+Thanks to React for providing an awesome library for building user interfaces.
+Shoutout to the open-source community for inspiration and support.
+Feel free to explore, experiment, and have fun with PlanWithHeer! If you have any questions or suggestions, don't hesitate to open an issue.
+
+Happy coding! 🚀
