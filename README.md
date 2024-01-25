@@ -28,7 +28,6 @@ npm start
 
 
  ## Contributing
-Contributions are welcome! If you have ideas for new UI designs, improvements, or bug fixes, feel free to submit a pull request.
 
 
 ## Acknowledgments
