@@ -1,10 +1,3 @@
-import React, {useState} from "react";
-import data from './data'
-import Tours from "./components/Tours";
-
-const App = () => {
-
-  const [tours, setTours] = useState(data);
 
   function removeTour(id) {
     const newTours = tours.filter(tour => tour.id !== id);
