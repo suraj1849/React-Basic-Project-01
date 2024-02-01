@@ -1,5 +1,6 @@
 
-
+# PlanWithHeer
+PlanWithHeer is a basic React application created to explore UI design using React. This project serves as a playground for experimenting with different UI components, layouts, and design patterns within a React environment.
 
 ## Features
 
