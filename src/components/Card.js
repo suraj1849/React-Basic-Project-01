@@ -1,4 +1,4 @@
-import { useState } from "react";
+
 
 
 function Card({id, image,info,price,name, removeTour})  {
